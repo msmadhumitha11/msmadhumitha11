@@ -1,11 +1,10 @@
 # Hi, I'm M S Madhumitha 👋
 
-### Aspiring Data Analyst | Python | SQL | Data Visualization
+### Aspiring Data Analyst | Python | SQL | Excel | Power BI
 
-I am an aspiring Data Analyst with a strong interest in transforming
-data into meaningful insights and supporting data-driven decisions.
+I am an aspiring Data Analyst with a strong interest in transforming raw data into meaningful insights and supporting data-driven decision-making.
 
-## 🛠️ Skills
+## 🛠️ Technical Skills
 
 - Python
 - SQL
@@ -16,34 +15,41 @@ data into meaningful insights and supporting data-driven decisions.
 - Excel
 - Power BI
 
-## 📊 Data Analytics
+## 📊 Data Analytics Skills
 
 - Data Cleaning
 - Exploratory Data Analysis (EDA)
 - Data Visualization
 - Statistical Analysis
+- Trend Analysis
 - Business Insights
 
 ## 🚀 Projects
 
-### Sales Data Analysis
-Python-based analysis of sales data to identify sales trends,
-profitability, and key business insights.
+### 📈 Sales Data Analysis Using Python
+Analyzed sales data using Python and Pandas to identify sales trends, profitability, top-performing products, customers, and cities.
 
-### E-Commerce Sales Analysis
-SQL-based analysis of customers, products, sales, revenue,
-and business trends.
+**Tools:** Python, Pandas, Matplotlib
+
+### 🛒 E-Commerce Sales Analysis Using SQL
+Analyzed e-commerce sales data using SQL to understand revenue, orders, customers, products, categories, and sales trends.
+
+**Tools:** MySQL, SQL
 
 ## 📚 Currently Learning
 
 - Advanced SQL
-- Data Visualization
-- Power BI
 - Statistics for Data Analysis
+- Power BI
+- Data Visualization
 
-## 📫 Connect With Me
+## 🎯 Career Goal
 
-- LinkedIn: https://www.linkedin.com/in/msmadhumitha
+Seeking entry-level opportunities as a Data Analyst, Junior Data Analyst, Business Analyst, or BI Analyst.
+
+## 🔗 Connect With Me
+
+- LinkedIn: [M S Madhumitha](https://www.linkedin.com/in/msmadhumitha)
 
 ---
 
