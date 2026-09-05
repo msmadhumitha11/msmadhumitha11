@@ -3,8 +3,8 @@
 ### 🎯 Aspiring Data Analyst | Python | SQL | Data Analytics
 
 🎓 **B.Tech Student | 2027**  
-📊 **Interested in Data Analytics & Business Intelligence**  
-💡 **Passionate about transforming data into meaningful insights**
+📊 **Focused on Data Analytics & Business Intelligence**  
+💡 **Interested in transforming data into meaningful business insights**
 
 ---
 
@@ -12,9 +12,9 @@
 
 I am an aspiring **Data Analyst** with a strong interest in **data analysis, data visualization, and business intelligence**.
 
-I enjoy working with data to **clean datasets, identify patterns, analyze trends, and generate meaningful insights** that support data-driven decision-making.
+I enjoy working with data to **clean datasets, analyze trends, identify patterns, and generate meaningful insights** that support data-driven decision-making.
 
-I have hands-on experience with **Python, SQL, Pandas, NumPy, and Matplotlib** and continuously develop my analytical skills through practical projects.
+I have hands-on experience with **Python, SQL, Pandas, NumPy, and Matplotlib** and am continuously developing my analytical skills through practical projects and learning.
 
 ---
 
@@ -28,7 +28,7 @@ I have hands-on experience with **Python, SQL, Pandas, NumPy, and Matplotlib** a
 
 ### 🗄️ Database
 
-**SQL** • **JOINs** • **GROUP BY** • **Aggregate Functions**
+**SQL** • **JOINs** • **GROUP BY** • **Aggregate Functions** • **Filtering & Sorting**
 
 ### 📊 Visualization & Reporting
 
@@ -40,17 +40,17 @@ I have hands-on experience with **Python, SQL, Pandas, NumPy, and Matplotlib** a
 
 ### 🛒 Sales Data Analysis Using Python
 
-Analyzed sales data to evaluate **sales performance, profitability, products, customers, cities, and monthly trends**.
+Analyzed sales data to understand **sales performance, profitability, product performance, customer behavior, city-wise sales, and monthly sales trends**.
 
-### 🔍 Key Areas
+### 🔍 Key Analysis
 
-- 🧹 Data Cleaning & Preparation
-- 💰 Sales, Cost & Profit Analysis
-- 📦 Product-wise Analysis
-- 🏙️ City-wise Analysis
-- 👥 Customer Analysis
-- 📅 Monthly Sales Trend Analysis
-- 📊 Data Visualization
+- 🧹 Cleaned and prepared the sales dataset
+- 💰 Calculated sales, cost, and profit
+- 📦 Analyzed product-wise sales performance
+- 🏙️ Analyzed city-wise sales performance
+- 👥 Identified top customers
+- 📅 Analyzed monthly sales trends
+- 📊 Created visualizations to communicate findings
 
 **Tools:** Python • Pandas • NumPy • Matplotlib
 
@@ -60,19 +60,19 @@ Analyzed sales data to evaluate **sales performance, profitability, products, cu
 
 ## 🌱 Currently Learning
 
-- 📊 Advanced SQL
-- 📈 Power BI
-- 📗 Excel for Data Analysis
-- 📐 Statistics
-- 🔎 Exploratory Data Analysis
+- 📊 **Advanced SQL**
+- 📈 **Power BI**
+- 📗 **Excel for Data Analysis**
+- 📐 **Statistics**
+- 🔎 **Exploratory Data Analysis**
 
 ---
 
 ## 🎯 Career Objective
 
-Building a strong foundation in **Data Analytics and Business Intelligence** through practical projects and continuous learning.
+Building a strong foundation in **Data Analytics and Business Intelligence** through continuous learning and practical projects.
 
-Targeting entry-level opportunities as a:
+Seeking to develop my skills for entry-level opportunities as a:
 
 **Data Analyst | Junior Data Analyst | Business Analyst | BI Analyst**
 
@@ -80,13 +80,15 @@ Targeting entry-level opportunities as a:
 
 ## 📂 GitHub Focus
 
-🐍 **Python Data Analysis**
+🐍 **Python & Data Analysis**
 
 🗄️ **SQL & Database Analysis**
 
 📊 **Data Visualization**
 
 📈 **Business & Sales Analytics**
+
+📚 **Practical Data Analytics Projects**
 
 ---
 
@@ -98,4 +100,4 @@ Targeting entry-level opportunities as a:
 
 ---
 
-⭐ **Thank you for visiting my profile!**
+⭐ **Thanks for visiting my profile!**
