@@ -1,55 +1,87 @@
 # Hi, I'm M S Madhumitha 👋
 
-### Aspiring Data Analyst | Python | SQL | Excel | Power BI
+### Aspiring Data Analyst | Python | SQL | Pandas | NumPy | Data Visualization
 
-I am an aspiring Data Analyst with a strong interest in transforming raw data into meaningful insights and supporting data-driven decision-making.
+🎓 B.Tech Student | 2027  
+📊 Passionate about Data Analytics and Business Insights  
+🐍 Building projects using Python and SQL  
+📈 Interested in turning data into meaningful insights
 
-## 🛠️ Technical Skills
+---
 
+## 👩‍💻 About Me
+
+I am an aspiring Data Analyst with a strong interest in data analysis, data cleaning, exploratory data analysis, and business insights.
+
+I enjoy working with datasets, identifying trends, and using data to solve real-world business problems.
+
+Currently, I am strengthening my skills in Python, SQL, Excel, Power BI, and data visualization through hands-on projects.
+
+---
+
+## 🛠️ Skills
+
+**Programming & Analysis**
 - Python
-- SQL
 - Pandas
 - NumPy
 - Matplotlib
-- Seaborn
+- Exploratory Data Analysis (EDA)
+- Statistics
+
+**Database**
+- SQL
+
+**Visualization & Reporting**
 - Excel
 - Power BI
-
-## 📊 Data Analytics Skills
-
-- Data Cleaning
-- Exploratory Data Analysis (EDA)
 - Data Visualization
-- Statistical Analysis
+
+**Data Skills**
+- Data Cleaning
 - Trend Analysis
 - Business Insights
 
-## 🚀 Projects
+---
 
-### 📈 Sales Data Analysis Using Python
-Analyzed sales data using Python and Pandas to identify sales trends, profitability, top-performing products, customers, and cities.
+## 📊 Featured Project
 
-**Tools:** Python, Pandas, Matplotlib
+### Sales Data Analysis Using Python
 
-### 🛒 E-Commerce Sales Analysis Using SQL
-Analyzed e-commerce sales data using SQL to understand revenue, orders, customers, products, categories, and sales trends.
+Analyzed sales data to identify sales and profit performance, top-selling products, top customers, city-wise performance, and monthly sales trends.
 
-**Tools:** MySQL, SQL
+**Tools:** Python, Pandas, NumPy, Matplotlib
 
-## 📚 Currently Learning
+🔗 [View Project](https://github.com/msmadhumitha11/Sales-Data-Analysis)
+
+---
+
+## 🌱 Currently Learning
 
 - Advanced SQL
-- Statistics for Data Analysis
 - Power BI
+- Excel for Data Analysis
+- Statistics
 - Data Visualization
+- Exploratory Data Analysis
+
+---
 
 ## 🎯 Career Goal
 
-Seeking entry-level opportunities as a Data Analyst, Junior Data Analyst, Business Analyst, or BI Analyst.
+Seeking opportunities as a:
 
-## 🔗 Connect With Me
+- Data Analyst
+- Junior Data Analyst
+- Business Analyst
+- BI Analyst
+
+---
+
+## 📫 Connect With Me
 
 - LinkedIn: [M S Madhumitha](https://www.linkedin.com/in/msmadhumitha)
+- GitHub: [msmadhumitha11](https://github.com/msmadhumitha11)
 
 ---
 
