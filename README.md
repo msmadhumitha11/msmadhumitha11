@@ -1,85 +1,82 @@
-👋 Hi, I'm M S Madhumitha
+# 👋 **Hi, I'm M S Madhumitha**
 
-🎯 Aspiring Data Analyst | Python | SQL | Data Visualization
-
-🎓 B.Tech Student | 2027
-📊 Aspiring Data Analyst
-💡 Interested in Data Analytics & Business Intelligence
+### 🎯 **Aspiring Data Analyst | Python | SQL | Data Visualization**
 
 ---
 
-👩‍💻 About Me
+## 👩‍💻 **About Me**
 
-I am an aspiring Data Analyst with a strong interest in transforming raw data into meaningful insights.
+I am an aspiring **Data Analyst** with a strong interest in transforming raw data into meaningful insights.
 
-I enjoy working with data to clean, analyze, visualize, and identify trends that support data-driven decision-making.
+I enjoy working with data to **clean, analyze, visualize, and identify trends** that support data-driven decision-making.
 
-I have hands-on experience with Python, SQL, Pandas, NumPy, and Matplotlib. I am currently strengthening my skills in Excel, Power BI, Statistics, and Exploratory Data Analysis (EDA) through practical projects.
-
----
-
-🛠️ Technical Skills
-
-🐍 Programming & Data Analysis
-
-Python • Pandas • NumPy • Matplotlib
-Data Cleaning • EDA • Statistics
-
-🗄️ Database
-
-SQL
-
-📊 Visualization & Reporting
-
-Excel • Power BI • Data Visualization
+I have hands-on experience with **Python, SQL, Pandas, NumPy, and Matplotlib**. I am currently strengthening my skills in **Excel, Power BI, Statistics, and Exploratory Data Analysis (EDA)** through practical projects.
 
 ---
 
-📈 Featured Project
+## 🛠️ **Technical Skills**
 
-🛒 Sales Data Analysis Using Python
+### 🐍 **Programming & Data Analysis**
 
-Analyzed sales data to understand sales and profit performance, top-selling products, top customers, city-wise performance, and monthly sales trends.
+**Python** • **Pandas** • **NumPy** • **Matplotlib**
 
-Tools: Python • Pandas • NumPy • Matplotlib
+**Data Cleaning** • **Exploratory Data Analysis (EDA)** • **Statistics**
 
-🔗 "View Project →" (https://github.com/msmadhumitha11/Sales-Data-Analysis)
+### 🗄️ **Database**
 
----
+**SQL**
 
-🌱 Currently Learning
+### 📊 **Visualization & Reporting**
 
-📊 Advanced SQL
-📈 Power BI
-📗 Excel for Data Analysis
-📐 Statistics
-📉 Exploratory Data Analysis
-📊 Advanced Data Visualization
+**Excel** • **Power BI** • **Data Visualization**
 
 ---
 
-🎯 Career Goal
+## 📈 **Featured Project**
+
+### 🛒 **Sales Data Analysis Using Python**
+
+Analyzed sales data to understand **sales and profit performance, top-selling products, top customers, city-wise performance, and monthly sales trends**.
+
+**Tools:** Python • Pandas • NumPy • Matplotlib
+
+🔗 **[View Project →](https://github.com/msmadhumitha11/Sales-Data-Analysis)**
+
+---
+
+## 🌱 **Currently Learning**
+
+📊 **Advanced SQL**  
+📈 **Power BI**  
+📗 **Excel for Data Analysis**  
+📐 **Statistics**  
+📉 **Exploratory Data Analysis**  
+📊 **Advanced Data Visualization**
+
+---
+
+## 🎯 **Career Goal**
 
 Building my skills and portfolio for entry-level opportunities as a:
 
-Data Analyst • Junior Data Analyst • Business Analyst • BI Analyst
+**Data Analyst • Junior Data Analyst • Business Analyst • BI Analyst**
 
 ---
 
-📊 GitHub Stats
+## 📊 **GitHub Stats**
 
-"GitHub Stats" (https://github-readme-stats.vercel.app/api?username=msmadhumitha11&show_icons=true&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=msmadhumitha11&show_icons=true&hide_border=true)
 
-"Top Languages" (https://github-readme-stats.vercel.app/api/top-langs/?username=msmadhumitha11&layout=compact&hide_border=true)
-
----
-
-🤝 Connect With Me
-
-💼 LinkedIn: "M S Madhumitha" (YOUR_LINKEDIN_LINK)
-
-🐙 GitHub: "@msmadhumitha11" (https://github.com/msmadhumitha11)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=msmadhumitha11&layout=compact&hide_border=true)
 
 ---
 
-⭐ Thanks for visiting my profile!
+## 🤝 **Connect With Me**
+
+💼 **LinkedIn:** [M S Madhumitha](https://www.linkedin.com/in/msmadhumitha)
+
+🐙 **GitHub:** [@msmadhumitha11](https://github.com/msmadhumitha11)
+
+---
+
+⭐ **Thanks for visiting my profile!**
